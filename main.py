@@ -4,3 +4,4 @@ y = int(input("Enter number y: "))
 print(f"x**y = {x**y}")
 print(f"log(x) = {np.log2(x)}")
 print(76162)
+
